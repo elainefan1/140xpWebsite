@@ -2,10 +2,18 @@
 title: "Elaine Fan"
 ---
 
-Hi! I'm Elaine, a 4th year Statistics and Data Science major at UCLA, and minoring in Mathematical Biology.
+## Projects
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+**Higher Dimension Tic-Tac-Toe:** A Python project focusing on Tic-Tac-Toe game theory across higher dimensions. Implemented strategies using MiniMax and Alpha-Beta Pruning, and formulated evaluation functions tailored for both NxN and 3x3x3 board dimensions, and tested. Presented outcomes to peers.
 
-```{r}
-1 + 1
-```
+**HoloBee Phylogenetics:** Sourced data of SeqRNA of bacteria found in bee gut biomes, analyzed and created phylogenetic tree using PHYLIP package. Utilized phylogeography techniques to map bacterial tree to identify bees in the same holobiont community, via clustering. Wrote paper, presented to the Suchard group and peers.
+
+**Cirrhosis in SAS:** Performing data analysis and predictive modeling in SAS on a dataset regarding clinical trial data on patients with Cirrhosis. Creating visualizations, reports, and other deliverables.
+
+## Certificates
+
+Google Advanced Data Analytics Professional Certificate
+
+Association of Clinical Research Professionals Certificate
+
+UCSD Extension Specialized Certificate of Completion of Android Programming

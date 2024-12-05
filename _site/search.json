@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Elaine Fan",
     "section": "",
-    "text": "Hi! I’m Elaine, a 4th year Statistics and Data Science major at UCLA, and minoring in Mathematical Biology.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Higher Dimension Tic-Tac-Toe: A Python project focusing on Tic-Tac-Toe game theory across higher dimensions. Implemented strategies using MiniMax and Alpha-Beta Pruning, and formulated evaluation functions tailored for both NxN and 3x3x3 board dimensions, and tested. Presented outcomes to peers.\nHoloBee Phylogenetics: Sourced data of SeqRNA of bacteria found in bee gut biomes, analyzed and created phylogenetic tree using PHYLIP package. Utilized phylogeography techniques to map bacterial tree to identify bees in the same holobiont community, via clustering. Wrote paper, presented to the Suchard group and peers.\nCirrhosis in SAS: Performing data analysis and predictive modeling in SAS on a dataset regarding clinical trial data on patients with Cirrhosis. Creating visualizations, reports, and other deliverables."
   },
   {
     "objectID": "about.html",
@@ -18,13 +18,27 @@
     "href": "about.html#education",
     "title": "Elaine Fan",
     "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. Statistics and Data Science, minor in Mathematical Biology | Sept 2021 - June 2025"
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. Statistics and Data Science, minor in Mathematical Biology | Sept 2021 - March 2025"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
     "title": "Elaine Fan",
     "section": "Experience",
-    "text": "Experience\nMerck & Co. | Risk Analysis (REAIM) Intern | June 2024 - September 2024\nLeica Biosystems | Statistics & Data Science, AI Intern | July 2023 - May 2024\n3T Ophthalmics | Assistant Biostatistician | April 2023 - Dec 2023"
+    "text": "Experience\nMerck & Co. | Associate Specialist, Information Technology ETR | July 2025\nMerck & Co. | Risk Analysis (REAIM) Intern | June 2024 - September 2024\nLeica Biosystems | Statistics & Data Science, AI Intern | July 2023 - May 2024\n3T Ophthalmics | Assistant Biostatistician | April 2023 - Dec 2023"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Elaine Fan",
+    "section": "",
+    "text": "Higher Dimension Tic-Tac-Toe: A Python project focusing on Tic-Tac-Toe game theory across higher dimensions. Implemented strategies using MiniMax and Alpha-Beta Pruning, and formulated evaluation functions tailored for both NxN and 3x3x3 board dimensions, and tested. Presented outcomes to peers.\nHoloBee Phylogenetics: Sourced data of SeqRNA of bacteria found in bee gut biomes, analyzed and created phylogenetic tree using PHYLIP package. Utilized phylogeography techniques to map bacterial tree to identify bees in the same holobiont community, via clustering. Wrote paper, presented to the Suchard group and peers.\nCirrhosis in SAS: Performing data analysis and predictive modeling in SAS on a dataset regarding clinical trial data on patients with Cirrhosis. Creating visualizations, reports, and other deliverables."
+  },
+  {
+    "objectID": "index.html#certificates",
+    "href": "index.html#certificates",
+    "title": "Elaine Fan",
+    "section": "Certificates",
+    "text": "Certificates\nGoogle Advanced Data Analytics Professional Certificate\nAssociation of Clinical Research Professionals Certificate\nUCSD Extension Specialized Certificate of Completion of Android Programming"
   }
 ]
