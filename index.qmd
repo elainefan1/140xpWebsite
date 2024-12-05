@@ -1,0 +1,11 @@
+---
+title: "Elaine Fan"
+---
+
+Hi! I'm Elaine, a 4th year Statistics and Data Science major at UCLA, and minoring in Mathematical Biology.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```

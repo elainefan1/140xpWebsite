@@ -1,0 +1,17 @@
+{
+  "hash": "3cec8bf337a37023e72ab5ecb189b123",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"Elaine Fan\"\n---\n\n\n\n\n\nHi! I'm Elaine, a 4th year Statistics and Data Science major at UCLA, and minoring in Mathematical Biology.\n\nTo learn more about Quarto websites visit <https://quarto.org/docs/websites>.\n\n\n\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

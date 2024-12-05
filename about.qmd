@@ -1,0 +1,28 @@
+---
+title: "Elaine Fan"
+about: 
+  template: jolla
+  image: profile.jpg
+  # links:
+  #   - icon: twitter
+  #     text: twitter
+  #     href: https://twitter.com
+  #   - icon: github
+  #     text: Github
+  #     href: https://github.com
+---
+
+Elaine Fan is a 4th year Statistics and Data Science major at UCLA, minoring in Mathematical Biology. In her free time, she enjoys rock climbing, hiking, camping, and golf.
+
+## Education
+
+University of California, Los Angeles \| Los Angeles, CA
+B.S. Statistics and Data Science, minor in Mathematical Biology \| Sept 2021 - June 2025
+
+## Experience
+
+Merck & Co. \| Risk Analysis (REAIM) Intern \| June 2024 - September 2024
+
+Leica Biosystems \| Statistics & Data Science, AI Intern \| July 2023 - May 2024
+
+3T Ophthalmics \| Assistant Biostatistician \| April 2023 - Dec 2023

@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elaine Fan",
+    "section": "",
+    "text": "Hi! I’m Elaine, a 4th year Statistics and Data Science major at UCLA, and minoring in Mathematical Biology.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Elaine Fan",
+    "section": "",
+    "text": "Elaine Fan is a 4th year Statistics and Data Science major at UCLA, minoring in Mathematical Biology. In her free time, she enjoys rock climbing, hiking, camping, and golf."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Elaine Fan",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA B.S. Statistics and Data Science, minor in Mathematical Biology | Sept 2021 - June 2025"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Elaine Fan",
+    "section": "Experience",
+    "text": "Experience\nMerck & Co. | Risk Analysis (REAIM) Intern | June 2024 - September 2024\nLeica Biosystems | Statistics & Data Science, AI Intern | July 2023 - May 2024\n3T Ophthalmics | Assistant Biostatistician | April 2023 - Dec 2023"
+  }
+]
